@@ -1,1 +1,1 @@
-# -Skill-India-AI-ML
+# Skill-India-AI-ML
